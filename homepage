@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google home page</title>
+</head>
+
+<body>
+  <!---Nav Bar--->
+  <header>
+    <nav align="right">
+      <a href="https://mail.google.com/mail/">Gmail</a>
+      <a href="https://www.google.com/imghp?hl=en&tab=ri&authuser=0&ogbl">Images</a>
+      <a href="#">Sign-in </a>
+
+    </nav>
+  </header>
+  <br><br><br><br><br>
+  <!----GOOGLE IMG----->
+  <center>
+    <div>
+      <img src="google-logo-png-google-sva-scholarship-20.png" Alt="Google logo" width="200px">
+    </div>
+  </center>
+  <!----search---->
+  <center>
+    <div>
+      <form>
+        <label for="form-select"></label>
+        <input type="search" placeholder="Search Google or type a url" size="22px">
+      </form>
+    </div>
+    <br>
+    <!----buttons---->
+    <div>
+      <input type="submit" value="Google Search">
+      <input type="submit" value="I'm feeling lucky">
+    </div>
+  </center>
+  <br><br><br><br><br>
+  <!---footer--->
+  <br><br><br><br><br>
+  <footer>
+    <a href="#">About</a>
+    <a href="#">Advertising</a>
+    <a href="#">Privacy</a>
+    <a href="#">Terms</a>
+  </footer>
+</body>
+
+</html>
